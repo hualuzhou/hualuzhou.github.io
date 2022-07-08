@@ -9,7 +9,10 @@ redirect_from:
 
 <span style="color:blue">Welcome to the Zhou's Research group</span>
 ==============
+----------------------
 
-What am I doing: Postdoctoral Researcher at UMass Amherst
-------------------
+I am currently a postdoctoral researcher at University of Massachusetts Amherst,
+and looking for a faculty position in the Food Science and Technology.
+
+My research interest is how to use advanced food science and technologies to enhance the food nutrition, safety, and quality.
 
