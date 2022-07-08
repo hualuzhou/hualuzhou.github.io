@@ -1,11 +1,16 @@
 ---
 layout: archive
-title: "List of Publications"
 permalink: /publications/
 author_profile: true
+title: ""
 ---
 
-Please visit my [Google Scholar](https://scholar.google.com/citations?user=M7oW9kIAAAAJ&hl=en&oi=ao) for more details.
+List of Publications
+================
+
+Please visit the [Google Scholar](https://scholar.google.com/citations?user=M7oW9kIAAAAJ&hl=en&oi=ao) for more details.
+
+-----------------
 
 <span style="color:blue">At Univesity of Massachusetts Amherst as a postdoctoral researcher (2021-Now)</span>
 

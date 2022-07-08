@@ -1,10 +1,12 @@
 ---
 layout: archive
-title: "Overview"
 permalink: /research/
 author_profile: true
+title: ""
 ---
-<!--- Overview -->
+
+Overview
+======
 The lab research goal is generally using food science and technologies to enhance
 the food nutrition, safety, and quality.
 Our ongoing projects are mainly focusing on how to effectively encapsulate, project,
@@ -15,6 +17,8 @@ advanced experimental techniques (such as food nanotechnologies, emulsion techno
 INFOGEST _in vitro_ digestion model) with powerful computing techniques (such as
 data mining, molecular modeling and dynamics) for understanding their fundamental
 structure-function relationships.
+
+-----------------------
 
 {% include base_path %}
 
