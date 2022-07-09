@@ -191,8 +191,9 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: false
-      comment: true
+      read_time: true
+      share: true
+      comments: true
   # _news
   - scope:
       path: ""
@@ -203,7 +204,6 @@ defaults:
       read_time: true
       comments: true
       share: true
-      related: true
   # _pages
   - scope:
       path: ""

@@ -11,6 +11,8 @@ The following news tracks all exciting moments that happened to this lab and its
 
 -------------------------
 
+{% include base_path %}
+
 {% for post in site.news reversed %}
   {% include archive-single.html %}
 {% endfor %}
