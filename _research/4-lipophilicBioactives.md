@@ -29,7 +29,7 @@ encapsualted into the hydrophobic phase of nanocarrier, which can significantly 
 the potential crystallizations. Besides, the nanocarriers are kinetically stable, and thus increase the stability of LBs in solutions.
 The nanoemulsion is one of common food-grade nanocarriers, where the emulsifiers can
 reduce the interfacial free energy of O/W phases. It has been reported that it effectively increases the water-solubility, gastrointestinal
-stability and adsorption of LBs. Hualu A structual design approach to optimize these delivery systems, where
+stability and adsorption of LBs. A structual design approach to optimize these delivery systems, where
 we can optimize different oil phases, emulsifier types, and strtuctual properties of emulsions, by maximazing their
 encapsulating and delivery efficiency.
 
