@@ -7,16 +7,21 @@ title: ""
 
 Overview
 ======
-The lab research goal is generally using food science and technologies to enhance
-the food nutrition, safety, and quality.
-Our ongoing projects are mainly focusing on how to effectively encapsulate, project,
-and deliver bioactive agents (such as vitamins, $\beta$-carotene, and polyphenols), and
-their applications in the creation of sustainable foods with desirable attributes (such as
-appearances, texture profiles, and nutrition). To be successful, we will integrate the
-advanced experimental techniques (such as food nanotechnologies, emulsion technologies, and
-INFOGEST _in vitro_ digestion model) with powerful computing techniques (such as
-data mining, molecular modeling and dynamics) for understanding their fundamental
-structure-function relationships.
+Our research interest is generally using advanced food science and technologies
+to enhance the food nutrition, safety, and quality. To be successful,
+we will use or develop a variety of food and chemistry techniques to
+understand their potential fundamentals, design, and applications,
+including the experimental techniques (such as food nanotechnologies,
+emulsion technologies, and INFOGEST _in vitro_ digestion model) and
+computing techniques (such as quantum chemistry, molecular modeling
+and dynamics, and data analysis). We are also expecting many potential
+collaborations with other research groups and companies, and together
+advance the development of next-generation food systems.
+The ongoing projects are mainly focusing on 1) how to effectively
+encapsulate, protect, and deliver bioactive agents (such as vitamins,
+$\beta$-carotene, and polyphenols), and
+2) revealing physicochemical fundamentals in creating sustainable
+foods with desirable attributes (such as appearances, texture profiles, and nutrition).
 
 -----------------------
 
