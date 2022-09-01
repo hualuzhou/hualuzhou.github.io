@@ -12,7 +12,7 @@ Please visit the [Google Scholar](https://scholar.google.com/citations?user=M7oW
 
 -----------------
 
-<span style="color:blue">At Univesity of Massachusetts Amherst as a postdoctoral researcher (2021-Now)</span>
+<span style="color:blue">At University of Massachusetts Amherst as a postdoctoral researcher (2021-Now)</span>
 
 **2022**
 <br/> 36. Zhou, H.; Vu, G.; Gong, X.; McClements, D. J., Comparison of the Cooking Behaviors of Meat and Plant-Based Meat Analogues: Appearance, Texture, and Fluid Holding Properties. _ACS Food Science & Technology_ 2 (5), 844-851.

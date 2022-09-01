@@ -42,10 +42,10 @@ In this project, Hualu, as a Ph.D. student supervised by
 fabricated or characterized food-grade nanoparticles (nanoemulsions, nanocellulose, nanochitin,
 titanium dioxide, etc.), and comprehensively investigated their alterations in physicochemical and structural properties
 as they passed through a simulated _in vitro_ gastrointestinal tract (GIT), (_e.g._, [INFOGEST](https://www.cost-infogest.eu/)).
-First, the behavior of food-grade titaniumn dioxide (TiO2)nanoparticles under simulated oral conditions were characterized [2].
+First, the behavior of food-grade titanium dioxide (TiO2)nanoparticles under simulated oral conditions were characterized [2].
 Second, two nature-derived organic nanoparticles, anionic nanocellulose and cationic nanochitin, were fabricated [3,4].
 These nanoparticles can stabilize lipid droplets and form Pickering emulsions. The impact emulsifier type (molecular versus particle)
-on the gastrointesinal fate of vitamin D3-fortified emulsions was examined by measuring their physicochemical properties,
+on the gastrointestinal fate of vitamin D3-fortified emulsions was examined by measuring their physicochemical properties,
 microstructure, digestibility, and bioaccessibility using an in vitro GIT model [5].
 Third, the impact of nanochitin on the gastrointestinal fate of a model emulsion was examined.
 The addition of nanochitin to the emulsions reduced lipid digestion and β-carotene bioaccessibility [6].

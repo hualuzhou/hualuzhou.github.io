@@ -1,7 +1,7 @@
 ---
 collection: research
 category: projects
-title: "The creation of plant-based foods and their gastrointstinal fate"
+title: "The creation of plant-based foods and their gastrointestinal fate"
 excerpt: "
 **Background**: The plant-based (PB) food, as one of the next-generation foods, have been increasingly adopted
 by consumers because they are more sustainable, environment-friendly, and have less ethical concerns.

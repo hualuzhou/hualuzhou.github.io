@@ -4,7 +4,7 @@ category: projects
 title: "Relationship between properties of inorganic nanoparticles and their autophagic effects"
 excerpt: "
 **Background**: Many inorganic nanoparticles (INPs) have recently been synthesized and used in the
-biological research area. It has showed that they likely induce the
+biological research area. It has showed that they likely induce
 the autophagic effects and thus lead to a dysfunction of our cellular system, due to
 their unqiue physicochemical properties. However, it is still unclear whether these properties
 (such as size, morphology, surface modification and dispersity) can significantly induce the autophagic effects.
@@ -24,7 +24,7 @@ in the chemical biology at Xiamen University, due to her excellent performance.
 Many inorganic nanoparticles (INPs) have recently been synthesized and used in the
 biological research area. It has showed that they likely induce the
 the autophagic effects and thus lead to a dysfunction of our cellular system, due to
-their unqiue physicochemical properties. However, it is still unclear whether these properties
+their unique physicochemical properties. However, it is still unclear whether these properties
 (such as size, morphology, surface modification and dispersity) can significantly induce the autophagic effects.
 
 **Main findings**
@@ -37,7 +37,7 @@ particularly including their dispersity, shape, and size [1].
 
 + **Shape**
 
-We syntheized the gold nanoparticles with different shapes, and
+We synthesized the gold nanoparticles with different shapes, and
 compared their cellular interactions, uptakes, and autophagic effects.
 The results revealed that gold nanoparticles could modulate autophagy in a shape-dependent manner.
 Western blot assays and confocal images confirmed that nanospheres caused more autophagosome accumulation than nanorods,
