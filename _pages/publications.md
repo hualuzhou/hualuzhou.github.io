@@ -15,6 +15,9 @@ Please visit the [Google Scholar](https://scholar.google.com/citations?user=M7oW
 <span style="color:blue">At University of Massachusetts Amherst as a postdoctoral researcher (2021-Now)</span>
 
 **2022**
+<br/> 39. Zhou, H.; Vu, G.; McClements, D. J., Formulation and characterization of plant-based egg white analogs using RuBisCO protein. _Food Chemistry_ 2022, 397, 133808. [DOI](https://doi.org/10.1016/j.foodchem.2022.133808)
+<br/> 38. Vu, G.; Zhou, H.; McClements, D. J., Impact of cooking method on properties of beef and plant-based burgers: Appearance, texture, thermal properties, and shrinkage. _Journal of Agriculture and Food Research_ 2022, 9, 100355. [DOI](https://doi.org/10.1016/j.jafr.2022.100355)
+<br/> 37. Hu, X.; Zhou, H.; McClements, D. J., Utilization of emulsion technology to create plant-based adipose tissue analogs: Soy-based high internal phase emulsions. _Food Structure_ 2022, 33, 100290. [DOI](https://doi.org/10.1016/j.foostr.2022.100290)
 <br/> 36. Zhou, H.; Vu, G.; Gong, X.; McClements, D. J., Comparison of the Cooking Behaviors of Meat and Plant-Based Meat Analogues: Appearance, Texture, and Fluid Holding Properties. _ACS Food Science & Technology_ 2 (5), 844-851.
 <br/> 35. Zhou, H.; McClements, D. J., Recent Advances in the Gastrointestinal Fate of Organic and Inorganic Nanoparticles in Foods. _Nanomaterials-Basel_ 2022, 12 (7).
 <br/> 34. Tan, Y.; Zhou, H.; McClements, D. J., Application of static in vitro digestion models for assessing the bioaccessibility of hydrophobic bioactives: A review. _Trends in Food Science & Technology_ 2022, 122, 314-327.

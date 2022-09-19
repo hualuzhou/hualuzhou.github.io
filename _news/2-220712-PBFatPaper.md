@@ -6,7 +6,7 @@ tags:
 ---
 
 Our recent work on the creation of the plant-based
-adipose tissue analogs using a emulsion technology has been published in the
+adipose tissue analogs using an emulsion technology has been published in the
 Food Structure. This work was mainly carried out by the Xiaoyan, and Lu also helped her
 to make up additional experiments. Congradturations to Lu and her collaborators.
 

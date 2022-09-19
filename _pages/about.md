@@ -23,9 +23,9 @@ our community. I am expecting that our lab can make significant contributions to
 ==============
 ----------------------
 
-<div class="grid__wrapper">
-  {% for post in site.news limit: 4 %}
-     {% include archive-single.html type="grid" %}
-  {% endfor %}
-</div>
+{% for post in site.news limit:10  %}
+  <li>
+    <a href="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+  </li>
+{% endfor %}
 
