@@ -4,7 +4,7 @@
 #
 # (c) 2016-2017 R. Stuart Geiger, released under the MIT license
 #
-# Run this from the _talks/ directory, which contains .md files of all your talks. 
+# Run this from the _talks/ directory, which contains .md files of all your talks.
 # This scrapes the location YAML field from each .md file, geolocates it with
 # geopy/Nominatim, and uses the getorg library to output data, HTML,
 # and Javascript for a standalone cluster map.
@@ -33,8 +33,8 @@ for file in g:
             lines_trim = lines[loc_start:]
             loc_end = lines_trim.find('"')
             location = lines_trim[:loc_end]
-                            
-           
+
+
         location_dict[location] = geocoder.geocode(location)
         print(location, "\n", location_dict[location])
 
