@@ -12,12 +12,19 @@ redirect_from:
 ==============
 ----------------------
 
-I am currently a postdoctoral researcher at University of Massachusetts Amherst,
-and looking for a faculty position in the Food Science and Technology.
-My research interest is how to use advanced food science and technologies to enhance
+This research group is how to use advanced food science and technologies to enhance
 the food nutrition, safety, and quality, and to create the next-generation foods for
-our community. I am expecting that our lab can make significant contributions to this field.
+our community. We am expecting that our lab can make significant contributions to this field.
 
+**Open positions**
+
+This group is constantly looking for incoming graduate students (M.S./Ph.D) who will study at
+[Department of Food Science & Technolgy, University of Georgia](https://foodscience.caes.uga.edu/).
+The students will expect to receive research assistantship and obtain professional research training
+and experience in next-generation foods and nutrition.
+General background and interest in food science or related (e.g., Chemistry, Biology, and Physics)
+is necessary. Please directly contact Hualu Zhou via
+(<u>zhouhualu@gmail.com</u> or <u>hualuzhou@hotmail.com</u>) for details.
 
 <span style="color:blue">Recent News</span>
 ==============

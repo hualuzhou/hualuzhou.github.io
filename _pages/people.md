@@ -5,7 +5,7 @@ author_profile: true
 title: ""
 ---
 
-Contributors for this Lab
+Contributors of this Lab
 ==============
 
 We really appreciate the following people, because
@@ -23,4 +23,4 @@ table, td, th {
 </style>
 
 | :-: | :-: |
-| <img src="/images/hualuzhou_crop.jpg" width='350'/> | **Hualu (Lu) Zhou, Ph.D.** <br/> _Principal Investigator_ (2022-)  <br/> _Research interest_: Food emulsions; Lipophilic bioactives; Gastrointestinal fate of nutrients and nutraceuticals; Plant proteins; Plant-based foods; Food digestion <br/> _Contributions_: Taking a leading charge of this lab for research, funding, and everything related <br/> [CV](/files/CV_latest.pdf), [GoogleScholar](https://scholar.google.com/citations?hl=en&user=M7oW9kIAAAAJ&view_op=list_works&sortby=pubdate), [Linkedin](https://www.linkedin.com/in/hualu-lu-zhou-955506171?trk=public_profile_browsemap), [ResearchGate](https://www.researchgate.net/profile/Hualu-Zhou) <br/> [hualuzhou@umass.edu](mailto:hualuzhou@umass.edu) |
+| <img src="/images/hualuzhou_crop.jpg" width='350'/> | **Hualu (Lu) Zhou, Ph.D.** <br/> _Principal Investigator_ (2022-) <br/> _Position_: Incoming Assistant Professor at [UGA](https://foodscience.caes.uga.edu/) <br/> _Research interest_: Food emulsions; Lipophilic bioactives; Gastrointestinal fate of nutrients and nutraceuticals; Plant proteins; Plant-based foods; Food digestion <br/> _Contributions_: Taking a leading charge of this lab for research, funding, and everything related <br/> [CV](/files/CV_latest.pdf), [GoogleScholar](https://scholar.google.com/citations?hl=en&user=M7oW9kIAAAAJ&view_op=list_works&sortby=pubdate), [Linkedin](https://www.linkedin.com/in/hualu-lu-zhou-955506171?trk=public_profile_browsemap), [ResearchGate](https://www.researchgate.net/profile/Hualu-Zhou) <br/> [hualuzhou@hotmail.com](mailto:hualuzhou@hotmail.com) |
