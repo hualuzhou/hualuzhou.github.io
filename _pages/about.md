@@ -18,13 +18,15 @@ our community. We am expecting that our lab can make significant contributions t
 
 **Open positions**
 
-This group is constantly looking for incoming graduate students (M.S./Ph.D) who will study at
-[Department of Food Science & Technolgy, University of Georgia](https://foodscience.caes.uga.edu/).
-The students will expect to receive research assistantship and obtain professional research training
-and experience in next-generation foods and nutrition.
-General background and interest in food science or related (e.g., Chemistry, Biology, and Physics)
-is necessary. Please directly contact Hualu Zhou via
-(<u>zhouhualu@gmail.com</u> or <u>hualuzhou@hotmail.com</u>) for details.
+Our research group at the [Department of Food Science & Technology, University of Georgia](https://foodscience.caes.uga.edu/) 
+is actively seeking motivated graduate students for both M.S. and Ph.D. programs. 
+Selected students can anticipate receiving a research assistantship, 
+along with specialized training and hands-on experience 
+in the development of sustainable, nutritional, and affordable next-generation foods. 
+A general background and interest in food science or related fields such as Chemistry, Biology, or Physics 
+are essential for prospective candidates. 
+For further information and application inquiries, 
+please directly contact Hualu Zhou (<u>hualuzhou@uga.edu</u>).
 
 <span style="color:blue">Recent News</span>
 ==============
