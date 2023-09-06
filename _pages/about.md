@@ -26,7 +26,7 @@ in the development of sustainable, nutritional, and affordable next-generation f
 A general background and interest in food science or related fields such as Chemistry, Biology, or Physics 
 are essential for prospective candidates. 
 For further information and application inquiries, 
-please directly contact Hualu Zhou (<u>hualuzhou@uga.edu</u>).
+please directly contact Hualu Zhou via an email (<u>hualuzhou@uga.edu</u>).
 
 <span style="color:blue">Recent News</span>
 ==============
