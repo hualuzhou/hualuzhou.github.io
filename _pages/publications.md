@@ -12,7 +12,29 @@ Please visit the [Google Scholar](https://scholar.google.com/citations?user=M7oW
 
 -----------------
 
-<span style="color:blue">At University of Massachusetts Amherst as a postdoctoral researcher (2021-Now)</span>
+<span style="color:blue">At University of Georgia as an assistant professor (2023-Now)</span>
+**2024**
+<br/> 55. Goncalves, R.F.S, Zhou, H., Vicente, A.A., Pinheiro, A.C., McClements, D.J., 2024. Plant-based bigels for delivery of bioactive compounds: Influence of hydrogel:oleogel ratio and protein concentration on their physicochemical properties. Food Hydrocolloids, p.109721.
+<br/> 54. Ryu. J., Zhou, H., McClements, D.J., 2024. In vitro Digestibility and Gastrointestinal Fate of Plant-based Chicken Analogs Prepared Using a Soft Matter Physics Approach. Food Biophysics, pp.109-119.
+<br/> 53. Ju, Q.; Wu, C., Zhou, H., Qin, D., Hu, X., McClements, D.J., Luan, G., 2024. Roles of soybean β-conglycinin subunit fractions in fibril formation and the effects of glycinin on them. Food Hydrocolloids, p.109906.
+
+**2023**
+<br/> 52. Zhou, H.; Zheng, B.; McClements, D.J., 2023. Utilization of pH-driven methods to fortify nanoemulsions with multiple polyphenols. Food Science and Human Wellness.
+<br/> 51. Ju, Q.; Wang, J.; Zhou, H.; Qin, D.; Hu, X.; McClements, D.J.; Luan, G., 2023. Influence of pH and ionic strength on the physicochemical and structural properties of soybean β-conglycinin subunits in aqueous dispersions. International Journal of Biological Macromolecules, p.126927.
+<br/> 50. Zheng, B.‡; Zhou, H.‡; McClements, D.J., 2023. Co-Encapsulation of Multiple Polyphenols in Plant-Based Milks: Formulation, Gastrointestinal Stability, and Bioaccessibility. Foods, 12(18), p.3432.
+<br/> 49. Csuti, A.; Zheng, B.; Zhou, H. *, 2023. Post pH-driven encapsulation of polyphenols in next-generation foods: principles, formation and applications. Critical Reviews in Food Science and Nutrition, pp.1-15.
+<br/> 48. Joshi, K.; Shabani, E.; Kabir, S.F.; Zhou, H.; McClements, D.J.; Park, J.H., 2023. Optimizing Protein Fiber Spinning to Develop Plant-Based Meat Analogs via Rheological and Physicochemical Analyses. Foods, 12(17), p.3161.
+<br/> 47. Cui, S.; McClements, D.J.; Xu, X.; Jiao, B.; Zhou, L.; Zhou, H.; Xiong, L.; Wang, Q.; Sun, Q.; Dai, L., 2023. Peanut proteins: Extraction, modifications, and applications: A comprehensive review. Grain & Oil Science and Technology.
+<br/> 46. Ryu, J.‡; Zhou, H.*; McClements, D.J.*, 2023. In vitro Digestibility and Gastrointestinal Fate of Plant-based Chicken Analogs Prepared Using a Soft Matter Physics Approach. Food Biophysics, pp.1-11.
+<br/> 45. Hu, X.; Zhou, H. and McClements, D.J., 2023. Impact of dispersion conditions and coacervation on fibril formation in gellan gum-potato protein mixtures. Food Hydrocolloids, p.109153.
+<br/> 44. Zhou, H.‡; Hu, X.‡; Xiang, X.; McClements, D.J., 2023. Modification of textural attributes of potato protein gels using salts, polysaccharides, and transglutaminase: Development of plant-based foods. Food Hydrocolloids, p.108909.
+<br/> 43. Ryu, J.‡; Xiang, X. ‡; Hu, X.; Rosenfeld, S.E.; Qin, D.; Zhou, H.*; McClements, D.J.*, 2023. Assembly of plant-based meat analogs using soft matter physics: A coacervation-shearing-gelation approach. Food Hydrocolloids, p.108817.
+<br/> 42. Zhou, H.‡; Tan, Y.‡; McClements, D.J., 2023. Applications of the INFOGEST In Vitro Digestion Model to Foods: A Review. Annual Review of Food Science and Technology, 14, pp.135-156.
+<br/> 41. Zhou, H.; Qin, D.; Vu, G.; McClements, D.J., 2023. Impact of Operating Parameters on the Production of Nanoemulsions Using a High-Pressure Homogenizer with Flow Pattern and Back Pressure Control. Colloids and Interfaces, 7(1), p.21.
+p
+<br/> 40. Vu, G.; Xiang, X.; Zhou, H.*; McClements, D.J.*, 2023. Lutein-Fortified Plant-Based Egg Analogs Designed to Improve Eye Health: Formation, Characterization, In Vitro Digestion, and Bioaccessibility. Foods, 12(1), p.2.
+
+<span style="color:blue">At University of Massachusetts Amherst as a postdoctoral researcher (2021-2023)</span>
 
 **2022**
 <br/> 39. Zhou, H.; Vu, G.; McClements, D. J., Formulation and characterization of plant-based egg white analogs using RuBisCO protein. _Food Chemistry_ 2022, 397, 133808. [DOI](https://doi.org/10.1016/j.foodchem.2022.133808)
