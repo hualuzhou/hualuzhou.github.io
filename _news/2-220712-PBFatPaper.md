@@ -1,5 +1,5 @@
 ---
-title: "Congradturations to Lu and her collaborators for publishing a paper in Food Structure"
+title: "Congratulations to Lu and her collaborators for publishing a paper in Food Structure"
 date: 2022-07-12
 tags:
   - website
@@ -8,7 +8,7 @@ tags:
 Our recent work on the creation of the plant-based
 adipose tissue analogs using an emulsion technology has been published in the
 Food Structure. This work was mainly carried out by the Xiaoyan, and Lu also helped her
-to make up additional experiments. Congradturations to Lu and her collaborators.
+to make up additional experiments. Congratulations to Lu and her collaborators.
 
 This paper proposed to use the high internal phase emulsions assembled from soybean oil
 and soybean protein. We compared the microstructure and appearance of plant-based

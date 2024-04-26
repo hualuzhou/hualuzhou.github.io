@@ -13,6 +13,7 @@ Please visit the [Google Scholar](https://scholar.google.com/citations?user=M7oW
 -----------------
 
 <span style="color:blue">At University of Georgia as an assistant professor (2023-Now)</span>
+
 **2024**
 <br/> 55. Goncalves, R.F.S, Zhou, H., Vicente, A.A., Pinheiro, A.C., McClements, D.J., 2024. Plant-based bigels for delivery of bioactive compounds: Influence of hydrogel:oleogel ratio and protein concentration on their physicochemical properties. Food Hydrocolloids, p.109721.
 <br/> 54. Ryu. J., Zhou, H., McClements, D.J., 2024. In vitro Digestibility and Gastrointestinal Fate of Plant-based Chicken Analogs Prepared Using a Soft Matter Physics Approach. Food Biophysics, pp.109-119.

@@ -1,5 +1,5 @@
 ---
-title: "Congradturations to Giang for his excellent work on the effect of cooking methods on properties of beef and plant-based burgers"
+title: "Congratulations to Giang for his excellent work on the effect of cooking methods on properties of beef and plant-based burgers"
 date: 2022-09-01
 tags:
   - website

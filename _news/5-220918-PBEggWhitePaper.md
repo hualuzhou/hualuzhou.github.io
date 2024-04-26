@@ -1,5 +1,5 @@
 ---
-title: "Congradturations to Lu and Giang for their development of plant-based egg white analogs published"
+title: "Congratulations to Lu and Giang for their development of plant-based egg white analogs published"
 date: 2022-09-18
 tags:
   - website

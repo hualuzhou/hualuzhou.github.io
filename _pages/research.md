@@ -7,6 +7,9 @@ title: ""
 
 Overview
 ======
+
+**The goal of our lab is to create sustainable, nutritional, affordable, and tasty foods for our next-generations.**
+
 Our research interest is generally using advanced food science and technologies
 to enhance the food nutrition, safety, and quality. To be successful,
 we will use or develop a variety of food and chemistry techniques to
