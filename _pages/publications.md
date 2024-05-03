@@ -17,7 +17,7 @@ Please visit the [Google Scholar](https://scholar.google.com/citations?user=M7oW
 <span style="color:blue">At University of Georgia as an assistant professor (2023.4-Now)</span>
 
 **2024**
-<br/> 56. H. Zhou *, G. Vu, Q. Ju, D.J. McClements *, Development of plant-based whole egg analogs using emulsion technology, **Food Research International**, 2024, 187, 114406. [DOI](https://doi.org/10.1016/j.foodres.2024.11440)
+<br/> 56. H. Zhou *, G. Vu, Q. Ju, D.J. McClements *, Development of plant-based whole egg analogs using emulsion technology, **Food Research International**, 2024, 187, 114406. [DOI](https://doi.org/10.1016/j.foodres.2024.114406)
 <br/> 55. R.F.S  Gonçalves, H. Zhou, A.A. Vicente, A.C. Pinheiro, D.J. McClements, Plant-based bigels for delivery of bioactive compounds: Influence of hydrogel:oleogel ratio and protein concentration on their physicochemical properties, **Food Hydrocolloids**, 2024, 150, 109721. [DOI](https://doi.org/10.1016/j.foodhyd.2023.109721)
 <br/> 54. J. Ryu., H. Zhou, D.J. McClements, In vitro Digestibility and Gastrointestinal Fate of Plant-based Chicken Analogs Prepared Using a Soft Matter Physics Approach, **Food Biophysics**, 2024, 19, 109-119. [DOI](https://doi.org/10.1007/s11483-023-09808-4)
 <br/> 53. Q. Ju, C. Wu, H. Zhou, D. Qin, X. Hu, D.J. McClements, G. Luan, Roles of soybean β-conglycinin subunit fractions in fibril formation and the effects of glycinin on them, **Food Hydrocolloids**, 2024, 152, 109906. [DOI](https://doi.org/10.1016/j.foodhyd.2024.109906)
