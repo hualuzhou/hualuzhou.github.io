@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Hualu (Lu) Zhou"
-  avatar           : "zhoulab_logo.png"
+  name             : "Zhou's Lab"
+  avatar           : "zhoulab_logo_crop.png"
   bio              : "Forging a world-class lab in food science and technology"
   location         : "University of Georgia, GA"
   employer         : #"Department of Food Science and Technology at UGA"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=M7oW9kIAAAAJ&hl=en&oi=ao"
-  email            : "hualuzhou@umass.edu"
+  email            : "hualuzhou@uga.edu"
   researchgate     : "https://www.researchgate.net/profile/Hualu-Zhou"
   uri              :
   bitbucket        :
