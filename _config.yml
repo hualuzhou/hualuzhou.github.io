@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Homepage"
+title                    : "Home"
 title_separator          : "-"
-name                     : &name "Hualu Zhou"
+name                     : &name "The Laboratory of Future Foods"
 description              : &description "Homepage of Hualu Zhou"
 url                      : "https://zhouhualu.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Zhou's Lab"
+  name             : "Hualu Zhou's Lab"
   avatar           : "zhoulab_logo_crop.png"
   bio              : "Forging a world-class lab in food science and technology"
   location         : "University of Georgia, GA"
