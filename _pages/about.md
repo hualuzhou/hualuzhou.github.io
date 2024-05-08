@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-<span style="color:blue">The Laboratory of Future Foods</span>
+<span style="color:blue">The Laboratory of Future Foods and Biomaterials</span>
 ==============
 ----------------------
 
-This research group is focusing on how to use advanced food science and technologies to create the next-generation foods for our community. We am expecting that our lab can make significant contributions to this field.
+This research group is focusing on how to use advanced food science and technologies to create the next-generation foods and biomaterials for our community. We am expecting that our lab can make significant contributions to this field.
 
 <span style="color:blue">Recent News</span>
 ==============

@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Home"
 title_separator          : "-"
-name                     : &name "The Laboratory of Future Foods"
+name                     : &name "The Laboratory of Future Foods and Biomaterials"
 description              : &description "Homepage of Hualu Zhou"
 url                      : "https://zhouhualu.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Hualu Zhou's Lab"
-  avatar           : "zhoulab_logo_crop.png"
+  avatar           : "zhoulab_logo_new.png"
   bio              : "Forging a world-class lab in food science and technology"
   location         : "University of Georgia, GA"
   employer         : #"Department of Food Science and Technology at UGA"

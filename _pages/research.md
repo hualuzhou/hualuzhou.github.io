@@ -8,10 +8,8 @@ title: ""
 Overview
 ======
 
-**The goal of our lab is to create sustainable, nutritional, affordable, and tasty foods for our next-generations.**
-
 Our research interest is generally using advanced food science and technologies
-to enhance the food nutrition, safety, and quality. To be successful,
+to create future foods and biomaterials. To be successful,
 we will use or develop a variety of food and chemistry techniques to
 understand their potential fundamentals, design, and applications,
 including the experimental techniques (such as food nanotechnologies,
@@ -21,10 +19,9 @@ and dynamics, and data analysis). We are also expecting many potential
 collaborations with other research groups and companies, and together
 advance the development of next-generation food systems.
 The ongoing projects are mainly focusing on 1) how to effectively
-encapsulate, protect, and deliver bioactive agents (such as vitamins,
-$\beta$-carotene, and polyphenols), and
+encapsulate, protect, and deliver bioactive agents, and
 2) revealing physicochemical fundamentals in creating sustainable
-foods with desirable attributes (such as appearances, texture profiles, and nutrition).
+foods and biomaterials with desirable attributes.
 
 -----------------------
 
