@@ -1,5 +1,5 @@
 ---
-title: "Dr. Hualu Zhou’s Lab Advances Health-Promoting Plant-Based Milk Innovation, Featured by UGA and ACS News"
+title: "Our lab advances health-promoting plant-based milk innovation, featured by UGA and ACS News"
 date: 2024-08-23
 tags:
   - website
@@ -19,7 +19,9 @@ To learn more about the reports of this innovative research, please visit the fo
 
 [UGA News](https://newswire.caes.uga.edu/story/10466/instant-golden-milk.html?utm_source=CAES+Newswire&utm_campaign=8055bffc84-Newswire_Non_Media_Weekly&utm_medium=email&utm_term=0_4cb3048305-8055bffc84-35715505)
 
+
 [ACS News](https://www.acs.org/pressroom/presspacs/2024/august/researchers-develop-an-instant-version-of-trendy-golden-turmeric-milk.html)
+
  
 [YouTube Video](https://youtube.com/shorts/ZaJfhFAoEnY?si=jk234RDqcTAAOO4V)
 
