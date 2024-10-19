@@ -31,8 +31,8 @@ Services Offered
 
 + **Sample Testing Services**: Offering cutting-edge testing for protein functionality, polyphenol content, food digestibility, particle size, surface charge, and microstructure analysis to support product development and quality control.
 
-Consulting Services
-======
+**Consulting Services**
+
 Dr. Zhou is available for consulting services tailored to food industry professionals looking for expert guidance on:
 
 + Food emulsions and delivery systems
@@ -57,7 +57,14 @@ Why Work with Dr. Hualu Zhou?
 ======
 Whether you're looking for expert consultation, innovative solutions for product development, or specialized testing services, Dr. Zhou provides the tools and knowledge to support your goals. Her extensive expertise in food emulsion technology, encapsulation, and plant-based food systems, combined with her passion for sustainability, positions her as a leader in the field. Dr. Zhou is dedicated to helping businesses create products that are not only innovative but also sustainable and scalable.
 
-
+Quick Links
+======
++ [UGA Food Science & Technology Extension](https://foodscience.caes.uga.edu/extension.html)
++ [Food Product Innovation and Commercialization (FoodPIC)](https://foodpic.uga.edu/)
+ 
+Contact Me
+======
+For inquiries, technical support, or consulting services, please reach out to me via the email (hualuzhou@uga.edu).
 
 
 
