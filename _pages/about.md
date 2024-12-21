@@ -12,7 +12,7 @@ redirect_from:
 ==============
 ----------------------
 
-This research group is focusing on how to use advanced food science and technologies to create the next-generation foods and biomaterials for our community. We am expecting that our lab can make significant contributions to this field.
+This research lab is dedicated to leveraging advanced food science and technology to develop next-generation foods and biomaterials, as well as their sustainable production systems. Our goal is to foster innovation and sustainability for the benefit of our community, and we strive to make significant contributions to this field.
 
 <span style="color:blue">Recent News</span>
 ==============
@@ -22,6 +22,7 @@ This research group is focusing on how to use advanced food science and technolo
 {% for post in sorted_news limit:10  %}
   <li>
     <a href="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+    <span> - {{ post.date | date: "%m/%d/%Y" }}</span>
   </li>
 {% endfor %}
 

@@ -12,7 +12,7 @@ Please visit the [Google Scholar](https://scholar.google.com/citations?user=M7oW
 
 -----------------
 
-#: Co-first author; *: Corresponding author
+#: First or co-first author; *: Corresponding author
 
 <span style="color:blue">At University of Georgia as an assistant professor (2023.4-Now)</span>
 

@@ -8,25 +8,37 @@ title: ""
 Overview
 ======
 
-Our research interest is generally using advanced food science and technologies
-to create future foods and biomaterials. To be successful,
-we will use or develop a variety of food and chemistry techniques to
-understand their potential fundamentals, design, and applications,
-including the experimental techniques (such as food nanotechnologies,
-emulsion technologies, and INFOGEST _in vitro_ digestion model) and
-computing techniques (such as quantum chemistry, molecular modeling
-and dynamics, and data analysis). We are also expecting many potential
-collaborations with other research groups and companies, and together
-advance the development of next-generation food systems.
-The ongoing projects are mainly focusing on 1) how to effectively
-encapsulate, protect, and deliver bioactive agents, and
-2) revealing physicochemical fundamentals in creating sustainable
-foods and biomaterials with desirable attributes.
+My primary research interest focuses on how to utilize advanced scientific and technological
+principles to drive
+<span style="color: blue;">innovation in future foods and biomaterials, as well as their sustainable production systems.</span>
+Our work involves utilizing and developing various food chemistry principles
+and techniques to explore their fundamental properties, innovative designs and fabrications, and 
+practical applications in the development of desirable next-generation foods that excel in many
+aspects, such as sustainablility, health, and cost.
+My current research emphasizes utilizing plant-derived materials to achieve 
+these goals in a sustainable and efficient manner.
 
------------------------
+<img src="/images/future_foods.svg" width='400'/>
 
+**Figure 1**. Various characteristics of future foods.
+
+---
+
+{% assign grouped_posts = site.research | group_by: "category" %}
+
+{% for group in grouped_posts %}
+  <h2>{{ group.name }}</h2> <!-- Displays the category name -->
+  <ul>
+    {% for post in group.items %}
+      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+  </ul>
+{% endfor %}
+
+{% comment %}
 {% include base_path %}
-
 {% for post in site.research reversed %}
   {% include archive-single.html %}
 {% endfor %}
+{% endcomment %}
+
