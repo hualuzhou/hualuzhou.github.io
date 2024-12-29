@@ -1,6 +1,7 @@
 ---
 title: "Congratulations to Giang and Lu for the first place prize in the video competition held by Texture Technologies"
 date: 2022-09-10
+category: "Student Achievements"
 tags:
   - website
 ---

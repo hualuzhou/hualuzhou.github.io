@@ -7,64 +7,36 @@ title: ""
 
 Overview
 ======
-Dr. Hualu Zhou brings a wealth of knowledge and innovation to the food industry through her 20% extension appointment at the University of Georgia. Dr. Zhou's extension efforts are dedicated to securing competitive extramural funding, disseminating cutting-edge research through publications and blogs, and directly supporting Georgia-based, regional, and national food industries. By collaborating with the Food Product Innovation and Commercialization (FoodPIC) center and other industry partners, she helps drive forward the future of food innovation.
+Our lab brings extensive food science expertise and innovative solutions to the food industry and the public through a 20% extension appointment at the University of Georgia. Our extension efforts focus on sharing cutting-edge research through publications and blogs while providing direct support to food industries at the state, regional, and national levels. With access to advanced facilities, including a food chemistry lab and pilot plant, we are committed to addressing the complex challenges of modern food production and research.
 
-With access to a wide range of state-of-the-art facilities, including a food-grade kitchen and pilot plant, Dr. Zhou works to meet the complex needs of modern food production and research. Her hands-on approach and dedication to both innovation and sustainability make her an essential asset to food producers looking to stay ahead in an evolving marketplace.
+## Extension Publications
 
-Services Offered
-======
-**Extension Publications**
++ **Protein showdown: Comparing plant-based and animal-based foods** – Highlighted key differences in nutrition, sustainability, and processing. (Accepted)
 
-+ **Protein Showdown: Comparison of Plant-based and Animal-based Foods** – Discover the key differences in nutrition, sustainability, and processing (Coming Soon).
++ **Oat okara: A nutritious byproduct of oat milk processing** – Explored sustainable uses for byproducts in oat milk production. (Submitted)
 
-+ **Oat Okara: Nutritious By-product of Oat Milk Processing** – Under review, offering insights on sustainable use of by-products in oat milk production.
++ **Turmeric: Nutritional composition, health benefits, and applications** – Provided an in-depth analysis of the nutritional composition, health benefits, and applications of Georgia-grown turmeric. (In Preparation)
 
-**Workshops and Educational Programs**
+## Workshops and Educational Programs
 
-+ **Instructor** for the Better Process Control School, specializing in “Cleaning of Continuous Systems,” equipping industry professionals with the knowledge they need to maintain food safety standards.
++ **Instructor for the Better Process Control School (BPCS) workshop**: Specialized in “Cleaning of Continuous Systems,” equipping industry professionals with the knowledge they need to maintain food safety standards. 12/10/2024-12/12/2024, at the University of Georiga, Griffin campus. [Link](https://calendar.uga.edu/event/better-process-control-school)
 
-+ **Co-Host** and **Presenter** at the 36th Georgia Peanut Tour, Hot Topics Sessions, where Dr. Zhou shared her expertise on “Sustainability in the Global Peanut Industry: Challenges and Potential Solutions” and presented her innovative work on "Peanut Skin-Powered Plant-Based Milks."
++ **Co-Host & Presenter at the 36th Georgia Peanut Tour, Hot Topics Sessions**: Shared her expertise on “Sustainability in the Global Peanut Industry: Challenges and Potential Solutions” and presented her innovative work on "Peanut Skin-Powered Plant-Based Milks." 9/17/2024-9/19/2024, at Americus, Georgia & Surrounding Area. [Link](https://georgiapeanuttour.com/2024/09/2024gpt_welcome/)
 
-**Technical Support for R&D**
++ **Co-Organizer at 2024 Flavor of Georgia Food Product Contest**: Assisted in planning and coordinating the event, ensuring smooth event logistics to showcase Georgia's innovative food products. 2024, at the University of Georgia, Athens campus. [Link](https://news.uga.edu/flavor-of-georgia-grand-prize-goes-to-new-creation-soda-works/)
 
-+ **Product Development**: Dr. Zhou partners with FoodPIC and industry clients to develop and improve products, including pecan milk, tiger milk, peanut butter and polyphenol-enriched food products.
+## Technical & Consulting Support
 
-+ **Sample Testing Services**: Offering cutting-edge testing for protein functionality, polyphenol content, food digestibility, particle size, surface charge, and microstructure analysis to support product development and quality control.
++ **Plant-based milk product development**: We partner with [FoodPIC](https://foodpic.uga.edu/) and industry clients to develop and improve products, including pecan milk, tiger milk.
 
-**Consulting Services**
-
-Dr. Zhou is available for consulting services tailored to food industry professionals looking for expert guidance on:
-
-+ Food emulsions and delivery systems
-
-+ Encapsulation technology for improved ingredient stability
-
-+ Extraction and utilization of polyphenols
-
-+ Plant protein analysis
-
-+ Physicochemical properties of food products
-
-+ Food digestion models for enhanced nutrient delivery
- 
-Highlight Activities
-======
-+ **Moderator** and **Presenter** for the 36th Georgia Peanut Tour, Hot Topics Sessions – leading discussions on global sustainability challenges and sharing innovative processing methods.
-
-+ **Organizer** of the **Flavor of Georgia** competition, supporting local food entrepreneurs in showcasing their products.
- 
-Why Work with Dr. Hualu Zhou?
-======
-Whether you're looking for expert consultation, innovative solutions for product development, or specialized testing services, Dr. Zhou provides the tools and knowledge to support your goals. Her extensive expertise in food emulsion technology, encapsulation, and plant-based food systems, combined with her passion for sustainability, positions her as a leader in the field. Dr. Zhou is dedicated to helping businesses create products that are not only innovative but also sustainable and scalable.
++ **Polyphenol-powered food development**: We partner with FoodPIC to develop polyphenol-enriched peanut butter products.
 
 Quick Links
 ======
 + [UGA Food Science & Technology Extension](https://foodscience.caes.uga.edu/extension.html)
 + [Food Product Innovation and Commercialization (FoodPIC)](https://foodpic.uga.edu/)
  
-Contact Me
-======
-For inquiries, technical support, or consulting services, please reach out to me via the email (hualuzhou@uga.edu).
+
 
 
 

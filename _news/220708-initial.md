@@ -1,8 +1,9 @@
 ---
 title: "The official website has been born"
 date: 2022-07-08
+category: "Lab Development & Activities"
 tags:
-  - website
+  - news
 ---
 
 This new baby is designed to accompany the growth of this lab, and will

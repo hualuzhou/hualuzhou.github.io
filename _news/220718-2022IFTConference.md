@@ -1,6 +1,7 @@
 ---
 title: "A pleasant journey to the 2022 IFT conference in Chicago"
 date: 2022-07-18
+category: "Lab Development & Activities"
 tags:
   - website
 ---

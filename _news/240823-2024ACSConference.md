@@ -1,6 +1,7 @@
 ---
 title: "A pleasant journey to the ACS 2014 Fall conference in Denver, CO"
 date: 2024-08-23
+category: "Lab Development & Activities"
 tags:
   - website
 ---

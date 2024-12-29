@@ -1,6 +1,6 @@
 ---
 collection: research
-category: "Sustainable food production"
+category: "Sustainable Food Production"
 title: "pH-based processing strategy: principles, design, and applications (2023-Now)"
 ---
 

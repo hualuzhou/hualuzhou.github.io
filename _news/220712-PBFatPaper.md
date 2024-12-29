@@ -1,6 +1,7 @@
 ---
 title: "Congratulations to Lu and her collaborators for publishing a paper in Food Structure"
 date: 2022-07-12
+category: "Research Achievements"
 tags:
   - website
 ---

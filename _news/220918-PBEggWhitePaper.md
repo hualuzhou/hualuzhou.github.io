@@ -1,6 +1,7 @@
 ---
 title: "Congratulations to Lu and Giang for their development of plant-based egg white analogs published"
 date: 2022-09-18
+category: "Research Achievements"
 tags:
   - website
 ---
@@ -16,5 +17,5 @@ a plant protein for the development of plant-based egg white analogs. Giang also
 experiments and discussion of this work. Lu and Giang also really thanked the Dr. McClements for his
 helpful guideness, and the _Plantible Foods_ for providing the raw RuBisCO protein.
 
-Please read more from the [published paper](https://doi.org/10.1016/j.foodchem.2022.133808).
+Please read more from the [published paper](https://doi.org/11.1016/j.foodchem.2022.133808).
 

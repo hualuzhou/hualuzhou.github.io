@@ -1,6 +1,7 @@
 ---
 title: "A pleasant journey to the 2024 IFT conference in Chicago"
 date: 2024-07-22
+category: "Lab Development & Activities"
 tags:
   - website
 ---

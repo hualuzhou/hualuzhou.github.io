@@ -21,8 +21,7 @@ This research lab is dedicated to leveraging advanced food science and technolog
 {% assign sorted_news = site.news | sort: 'date' | reverse %}
 {% for post in sorted_news limit:10  %}
   <li>
-    <a href="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-    <span> - {{ post.date | date: "%m/%d/%Y" }}</span>
+    <a href="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.date | date: "%m/%d/%Y" }} - {{ post.title }}</a>
   </li>
 {% endfor %}
 

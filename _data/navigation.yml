@@ -1,10 +1,17 @@
 # main links links
 main:
+main:
   - title: "Research"
     url: /research/
 
   - title: "Extension"
     url: /extension/
+
+  - title: "Teaching"
+    url: /teaching/
+
+  - title: "Services"
+    url: /services/
 
   - title: "Publications"
     url: /publications/
@@ -14,3 +21,4 @@ main:
 
   - title: "News"
     url: /news/
+
