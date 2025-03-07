@@ -2,7 +2,7 @@
 collection: research
 category: "Quantitative Methods"
 title: "In vitro food digestion model for monitoring 
-the gastrointestinal fate and nutrition of foods and their components (2017-2020)"
+the gastrointestinal fate and nutrition of foods and their components (2017-Now)"
 ---
 
 <!-- main body -->

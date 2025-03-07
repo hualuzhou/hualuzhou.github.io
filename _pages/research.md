@@ -15,7 +15,9 @@ Our work involves utilizing and developing various food chemistry principles
 and techniques to explore their fundamental properties, innovative designs and fabrications, and 
 practical applications in the development of desirable next-generation foods that excel in many
 aspects, such as sustainablility, health, and cost.
-My current research emphasizes utilizing plant-derived materials to achieve 
+My current research emphasizes utilizing plant-derived materials (e.g., 
+<span style="color: blue;">plant proteins</span> and 
+<span style="color: blue;">bioactive compounds</span>) to achieve 
 these goals in a sustainable and efficient manner.
 
 <img src="/images/future_foods.svg" width='400'/>

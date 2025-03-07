@@ -12,7 +12,7 @@ redirect_from:
 ==============
 ----------------------
 
-This research lab is dedicated to leveraging advanced food science and technology to develop next-generation foods and biomaterials, as well as their sustainable production systems. Our goal is to foster innovation and sustainability for the benefit of our community, and we strive to make significant contributions to this field.
+Our research lab focuses on integrating chemistry and food technology to develop next-generation foods and biomaterials, along with sustainable production systems.
 
 <span style="color:blue">Recent News</span>
 ==============
