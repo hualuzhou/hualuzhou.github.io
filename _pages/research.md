@@ -8,15 +8,12 @@ title: ""
 Overview
 ======
 
-My primary research interest focuses on how to utilize advanced scientific and technological
-principles to drive
-<span style="color: blue;">innovation in future foods and biomaterials, as well as their sustainable production systems.</span>
-Our work involves utilizing and developing various food chemistry principles
-and techniques to explore their fundamental properties, innovative designs and fabrications, and 
+Our research work involves utilizing and developing various <span style="color: blue;">food chemistry principles
+and techniques</span> to explore their fundamental properties, innovative designs and fabrications, and 
 practical applications in the development of desirable next-generation foods that excel in many
-aspects, such as sustainablility, health, and cost.
+aspects, such as <span style="color: blue;">sustainablility, health, and cost</span>.
 My current research emphasizes utilizing plant-derived materials (e.g., 
-<span style="color: blue;">plant proteins</span> and 
+<span style="color: blue;">plant proteins/polysaccharides</span> and 
 <span style="color: blue;">bioactive compounds</span>) to achieve 
 these goals in a sustainable and efficient manner.
 
@@ -31,16 +28,10 @@ these goals in a sustainable and efficient manner.
 {% for group in grouped_posts %}
   <h2>{{ group.name }}</h2> <!-- Displays the category name -->
   <ul>
-    {% for post in group.items %}
+    {% assign sorted_posts = group.items | sort: "date" | reverse %}
+    {% for post in sorted_posts %}
       <li><a href="{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
   </ul>
 {% endfor %}
-
-{% comment %}
-{% include base_path %}
-{% for post in site.research reversed %}
-  {% include archive-single.html %}
-{% endfor %}
-{% endcomment %}
 

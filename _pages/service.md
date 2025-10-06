@@ -23,16 +23,23 @@ Dr. Zhou is available for consulting services tailored to food industry professi
 
 ## Reviewed Articles & Grants
 
-+ Good Food Institute Proposals (#5)
++ Total number of reviewed proposals (#9) for Good Food Institute, Foundation for Food & Agriculture Research Proposals, National Cattlemen's Beef Association.
 + Total number of reviewed papers (#50). Selected journals include Food Chemistry; Food Hydrocolloids; Food Research International; Journal of Agricultural and Food Chemistry; Trends in Food Science & Technology; Critical Reviews in Food Science and Nutrition; Nature Communication; Nature Materials.
 
 ## Editorial Board & Guest Editor
-+ Early Career Advisory Board, Journal of Agricultural and Food Chemistry (JAFC), 2023-
++ Youth Editorial Board, Food Nutrition, 2025
++ Guest Editor, Food Chemistry X, 2025-
++ Guest Editor, Food Innovation and Advances, 2025-
++ Early Career Advisory Board, Journal of Agricultural and Food Chemistry (JAFC), 2024-
 + Editor Board, Grain & Oil Science and Technology (GOST), 2023-
 + Guest Editor, Frontiers in Bioengineering and Biotechnology, 2023
 + Guest Editor, Frontiers in Nutrition, 2022
 
-## University and Community Service 
+## University and Community Service
++ Chair, IFT Nutrition Division, 2025-
++ Secondary advisor, UGA Food Science Club, 2025-
++ Search committee, UGA FoodPIC Assistant Director, 2024
++ Search committee, UGA Koehler-Ayres professor position, 2024
 + Leadership team, IFT Fruit & Vegetable Products Division, 2024-
 + Secretary, IFT Nutrition Division, 2022-
 + Judge, IFT Graduate Student Oral Competition, 2022, 2023

@@ -177,6 +177,8 @@ kramdown:
 collections:
   research:
     output: true
+    sort_by: date
+    order: descending
     permalink: /:collection/:path/
   news:
     output: true

@@ -1,8 +1,7 @@
 ---
 collection: research
-category: "Food Nanotechnology"
-title: "The gastrointestinal fate of organic and inorganic nanoparticles in foods:
-impacts on lipid digestion and nutraceutical bioavailability (2017-2020)"
+category: "MS-PhD-Postdoc"
+title: "Gastrointestinal fate of organic and inorganic nanoparticles in foods (PhD, 2017-2020)"
 ---
 <!-- main body -->
 ------------------

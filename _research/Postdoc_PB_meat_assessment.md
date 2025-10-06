@@ -1,7 +1,7 @@
 ---
 collection: research
-category: "Quantitative Methods"
-title: "Development of standardized methods to assess the physicochemical properities of plant-based meats (2021-2023)"
+category: "MS-PhD-Postdoc"
+title: "Characterizations of plant-based meats (Postdoc, 2021-2023)"
 ---
 
 <!-- main body -->

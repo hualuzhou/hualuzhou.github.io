@@ -1,7 +1,8 @@
 ---
 collection: research
-category: "Food Nanotechnology"
-title: "Impact of physicochemical properties of inorganic nanoparticles on their autophagic effects and toxicity (2014-2017)"
+category: "MS-PhD-Postdoc"
+title: "Inorganic nanoparticles & their autophagic effects and toxicity (MS, 2014-2017)"
+Date: 2014-09-01
 ---
 <!-- main body -->
 ------------------

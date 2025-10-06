@@ -1,7 +1,7 @@
 ---
 collection: research
-category: "Future Foods"
-title: "Creation of plant-based foods alternatives with low energy methods  (2020-2023)"
+category: "Future Foods & Biomaterials"
+title: "Plant-based meat, egg, and fat (2020-2023)"
 ---
 
 <!-- main body -->

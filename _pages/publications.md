@@ -19,13 +19,16 @@ Please visit the [Google Scholar](https://scholar.google.com/citations?user=M7oW
 <span style="color:blue">At the University of Georgia as an assistant professor (2023.4-Now)</span>
 
 **2025**
+<br/> 65. Gong, X.; Zhou, H.; Huang, Q. Assessing AlphaFold 3 for Per- and Polyfluoroalkyl Substances Docking in Protein Structures. **Environmental Science & Technology** 2025, 59 (35), 18440-18449. DOI: https://doi.org/10.1021/acs.est.5c03917. [Link](https://doi.org/10.1021/acs.est.5c03917)
+<br/> 64. Wang, M.; Gong, X.; Zhou, H.* Sustainably derived turmeric nanoparticles enhance gastrointestinal bioavailability of curcumin. **Food Research International** 2025, 219, 117122. DOI: https://doi.org/10.1016/j.foodres.2025.117122. [Link](https://doi.org/10.1016/j.foodres.2025.117122)
+<br/> 63. Suryamiharja, A.; Gong, X.; Zhou, H.* Heating and neutralization significantly impact pH-shifting treatment: A case study on oat protein isolate. **International Journal of Biological Macromolecules** 2025, 320, 145789. DOI: https://doi.org/10.1016/j.ijbiomac.2025.145789. [Link](https://doi.org/10.1016/j.ijbiomac.2025.145789)
 <br/> 62. Gong, X.; Wang, M.; Zhou, H.* Harnessing pH for sustainable and effective synthesis of phenolic compound-loaded nanoparticles directly from raw plants. **Food Chemistry** 2025, 467, 142327. DOI: https://doi.org/10.1016/j.foodchem.2024.142327. [Link](https://doi.org/10.1016/j.foodchem.2024.142327)
+<br/> 61. Suryamiharja, A.; Gong, X.; Akoh, C. C.; Zhou, H.* Enhancing the efficiency and sustainability of producing curcumin-infused plant-based milk alternatives with a two-in-one post pH-driven processing strategy. **Food Frontiers** 2025, 6 (2), 716-726. DOI: https://doi.org/10.1002/fft2.534. [Link](https://doi.org/10.1002/fft2.534)
 
 **2024**
-<br/> 61. Gong, X.; Wang, M.; Lu, P.; Zhou, H.* An improved pH-driven method for upcycling polyphenols from plants or byproducts into foods. **Foods** 2024, 13 (23), 3945. DOI: https://doi.org/10.3390/foods13233945. [Link](https://doi.org/10.3390/foods13233945)
-<br/> 60. Suryamiharja, A.; Gong, X.; Akoh, C. C.; Zhou, H.* Enhancing the efficiency and sustainability of producing curcumin-infused plant-based milk alternatives with a two-in-one post pH-driven processing strategy. **Food Frontiers** 2024. DOI: https://doi.org/10.1002/fft2.534. [Link](https://doi.org/10.1002/fft2.534)
-<br/> 59. Suryamiharja, A.; Gong, X.; Zhou, H.* Towards more sustainable, nutritious, and affordable plant-based milk alternatives: A critical review. **Sustainable Food Proteins** 2024. DOI: https://doi.org/10.1002/sfp2.1040. [Link](https://doi.org/10.1002/sfp2.1040)
-<br/> 58. Gong, X.; Suryamiharja, A.; Zhou, H.* pH-induced structural changes of crystalline curcumin enhance its encapsulation in emulsions. **ACS Food Science & Technology** 2024. DOI: https://doi.org/10.1021/acsfoodscitech.4c00595. [Link](https://doi.org/10.1021/acsfoodscitech.4c00595)
+<br/> 60. Gong, X.; Wang, M.; Lu, P.; Zhou, H.* An improved pH-driven method for upcycling polyphenols from plants or byproducts into foods. **Foods** 2024, 13 (23), 3945. DOI: https://doi.org/10.3390/foods13233945. [Link](https://doi.org/10.3390/foods13233945)
+<br/> 59. Suryamiharja, A.; Gong, X.; Zhou, H.* Towards more sustainable, nutritious, and affordable plant-based milk alternatives: A critical review. **Sustainable Food Proteins** 2024, 2 (4), 250-267. DOI: https://doi.org/10.1002/sfp2.1040. [Link](https://doi.org/10.1002/sfp2.1040)
+<br/> 58. Gong, X.; Suryamiharja, A.; Zhou, H.* pH-induced structural changes of crystalline curcumin enhance its encapsulation in emulsions. **ACS Food Science & Technology** 2024, 4 (12), 2998-3006. DOI: https://doi.org/10.1021/acsfoodscitech.4c00595. [Link](https://doi.org/10.1021/acsfoodscitech.4c00595)
 <br/> 57. Csuti, A.; Zheng, B.; Zhou, H.* Post pH-driven encapsulation of polyphenols in next-generation foods: Principles, formation and applications. **Critical Reviews in Food Science and Nutrition** 2024, 64 (33), 12892-12906. DOI: https://doi.org/10.1080/10408398.2023.2258214. [Link](https://doi.org/10.1080/10408398.2023.2258214)
 <br/> 56. Zhou, H.; Zheng, B.; McClements, D. J. Utilization of pH-driven methods to fortify nanoemulsions with multiple polyphenols. **Food Science and Human Wellness** 2024, 13 (4), 1943-1950. DOI: https://doi.org/10.26599/FSHW.2022.9250161. [Link](https://doi.org/10.26599/FSHW.2022.9250161)
 <br/> 55. Zhou, H.\*; Vu, G.; Ju, Q.; Julian McClements, D. Development of plant-based whole egg analogs using emulsion technology. **Food Research International** 2024, 187, 114406. DOI: https://doi.org/10.1016/j.foodres.2024.114406. [Link](https://doi.org/10.1016/j.foodres.2024.114406)
@@ -114,6 +117,7 @@ Please visit the [Google Scholar](https://scholar.google.com/citations?user=M7oW
 
 ## Peer-Reviewed Extension Publications
 
+<br/> 2. Suryamiharja, A.; Zhou, H.* Oat Okara: A Nutritious Byproduct of Oat Milk Processing. 2025. **UGA Extension Publication** Number B 1579.
 <br/> 1. Suryamiharja, A.; Zhou, H.* Protein showdown: Comparison of plant-based and animal-based foods. 2024. **UGA Extension Publication** Number B 1575.
 
 ## Chapters in Books

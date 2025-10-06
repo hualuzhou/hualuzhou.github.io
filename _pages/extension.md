@@ -11,11 +11,11 @@ Our lab brings extensive food science expertise and innovative solutions to the 
 
 ## Extension Publications
 
-+ **Protein showdown: Comparing plant-based and animal-based foods** – Highlighted key differences in nutrition, sustainability, and processing. (Accepted)
++ **Protein showdown: Comparing plant-based and animal-based foods** – Highlighted key differences in nutrition, sustainability, and processing. [Link](https://fieldreport.caes.uga.edu/publications/B1575/protein-showdown-comparison-of-plant-based-and-animal-based-foods/)
 
-+ **Oat okara: A nutritious byproduct of oat milk processing** – Explored sustainable uses for byproducts in oat milk production. (Submitted)
++ **Oat okara: A nutritious byproduct of oat milk processing** – Explored sustainable uses for byproducts in oat milk production. [Link](https://fieldreport.caes.uga.edu/publications/B1579/oat-okara-a-nutritious-byproduct-of-oat-milk-processing/)
 
-+ **Turmeric: Nutritional composition, health benefits, and applications** – Provided an in-depth analysis of the nutritional composition, health benefits, and applications of Georgia-grown turmeric. (In Preparation)
++ **Turmeric: Nutritional composition, health benefits, and applications** – Provided an in-depth analysis of the nutritional composition, health benefits, and applications of Georgia-grown turmeric. (Submitted)
 
 ## Workshops and Educational Programs
 
