@@ -18,7 +18,16 @@ Please visit the [Google Scholar](https://scholar.google.com/citations?user=M7oW
 
 <span style="color:blue">At the University of Georgia as an assistant professor (2023.4-Now)</span>
 
+**2026**
+<br/> 72. Lu, P.; Waldeck, J.; Weber, K.; Zhou, H. Exploring the influence of environmental motivations on consumer attitudes and purchase intentions toward upcycled foods. **Food and Humanity** 2026, 101135. DOI: https://doi.org/10.1016/j.foohum.2026.101135. [Link](https://doi.org/10.1016/j.foohum.2026.101135)
+<br/> 71. Kaur, J.; Lee, N.; Kang, M. J.; Zhou, H.; Cassity-Duffey, K.; Suh, J. H. Metabolomic insights into volatile and non-volatile compounds in organic tomato fruits: A pathway-based approach. **Journal of Food Measurement and Characterization** 2026, 1-16. DOI: https://doi.org/10.1007/s11694-026-04233-w. [Link](https://doi.org/10.1007/s11694-026-04233-w)
+<br/> 70. Suryamiharja, A.; Gong, X.; Wang, M.; Solval, K. M.; Zhou, H.* Processing effects on the characteristics of oat protein solutions: The role of enzymatic treatment and pH-shifting with mild heating. **Grain & Oil Science and Technology** 2026, 9 (1), 1-10. DOI: https://doi.org/10.1016/j.gaost.2025.12.002. [Link](https://doi.org/10.1016/j.gaost.2025.12.002)
+<br/> 69. Lu, P.; Xu, F.; Waldeck, J.; Weber, K.; Zhou, H. From waste to sustainability: Exploring consumer purchase intentions of milk enriched with upcycled peanut skins. **Cleaner and Responsible Consumption** 2026, 100407. DOI: https://doi.org/10.1016/j.clrc.2026.100407. [Link](https://doi.org/10.1016/j.clrc.2026.100407)
+
 **2025**
+<br/> 68. Arias, N.; Simeonidis, K.; Rooks, A. H.; Dycus, M. M.; Zhou, H.; Pinotti, L.; Pastorelli, G.; Usack, J. G.; Lourenco, J. M. Medium-chain fatty acid products derived from agriculture and food production sidestreams decrease cattle greenhouse gas emissions in vitro. **Applied Sciences** 2025, 15 (24), 13154. DOI: https://doi.org/10.3390/app152413154. [Link](https://doi.org/10.3390/app152413154)
+<br/> 67. Mao, L.; Lu, P.; Waldeck, J.; Weber, K.; Zhou, H. The effect of perceived risk on consumer attitudes toward upcycled food: The moderating roles of heuristic and systematic processing factors. **Journal of Applied Communications** 2025, 109 (4), 10.
+<br/> 66. Dai, N.; Dai, T.; Shuai, X.; Zhou, H.; Deng, L.; Feng, Y.; Wang, Y.; Chen, J. Preparation of soluble rice-soy composite protein using industry-scale high-energy fluidic microfluidizer coupled with alkali-driven treatment: Effects on water solubility and emulsifying properties. **Food Hydrocolloids** 2025, 112133. DOI: https://doi.org/10.1016/j.foodhyd.2025.112133. [Link](https://doi.org/10.1016/j.foodhyd.2025.112133)
 <br/> 65. Gong, X.; Zhou, H.; Huang, Q. Assessing AlphaFold 3 for Per- and Polyfluoroalkyl Substances Docking in Protein Structures. **Environmental Science & Technology** 2025, 59 (35), 18440-18449. DOI: https://doi.org/10.1021/acs.est.5c03917. [Link](https://doi.org/10.1021/acs.est.5c03917)
 <br/> 64. Wang, M.; Gong, X.; Zhou, H.* Sustainably derived turmeric nanoparticles enhance gastrointestinal bioavailability of curcumin. **Food Research International** 2025, 219, 117122. DOI: https://doi.org/10.1016/j.foodres.2025.117122. [Link](https://doi.org/10.1016/j.foodres.2025.117122)
 <br/> 63. Suryamiharja, A.; Gong, X.; Zhou, H.* Heating and neutralization significantly impact pH-shifting treatment: A case study on oat protein isolate. **International Journal of Biological Macromolecules** 2025, 320, 145789. DOI: https://doi.org/10.1016/j.ijbiomac.2025.145789. [Link](https://doi.org/10.1016/j.ijbiomac.2025.145789)
@@ -123,4 +132,3 @@ Please visit the [Google Scholar](https://scholar.google.com/citations?user=M7oW
 ## Chapters in Books
 
 <br/> 1. Zhou, H.\*; McClements, D. J.; Chen, L. Fabrication methods for bioactive delivery systems. In Bioactive delivery systems for lipophilic nutraceuticals: Formulation, fabrication, and application, Miao, M., Chen, L., McClements, D. Eds.; **The Royal Society of Chemistry**, 2023; pp 84-106. DOI: https://doi.org/10.1039/BK9781839165566-00084. [Link](https://doi.org/10.1039/BK9781839165566-00084)
-
